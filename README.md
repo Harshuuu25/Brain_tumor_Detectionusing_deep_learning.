@@ -1,11 +1,17 @@
 # Brain_tumor_Detectionusing_deep_learning.
 "Brain Tumor Detection Using Deep Learning" employs AI to analyze MRI/CT scans for tumor detection. Utilizing deep learning algorithms like CNNs, it aims for automated, accurate diagnosis, potentially leading to earlier interventions and improved patient outcomes.
+
 #Database used in the project.
 https://www.kaggle.com/datasets/architsharma15/tumor-dataset
+
 #All about the project
+
 #Introduction:
+
 In our project, we utilize advanced deep learning techniques for the detection of brain tumors in medical imaging data, specifically MRI/CT scans.
+
 #Models Used:
+
 #1. ResNet (Residual Neural Network):
 In our "Brain Tumor Detection Using Deep Learning" project, ResNet stands out as a cornerstone model for accurate diagnosis. Renowned for its deep architecture with residual connections, ResNet excels in capturing intricate features within MRI/CT scans. These residual connections allow the model to effectively bypass layers, mitigating the vanishing gradient problem and facilitating the training of deeper networks. By leveraging ResNet's capabilities, we enhance our system's ability to discern subtle nuances indicative of brain tumors, thereby improving diagnostic accuracy. With ResNet at the forefront of our approach, we aim to revolutionize brain tumor detection, ultimately enhancing patient outcomes and healthcare delivery.
 
